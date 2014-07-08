@@ -20,7 +20,7 @@ Supported WordPress versions: 3.x
 * content images 
 * internal links
 
-= Additional Migration Options:= 
+= Additional Migration Options: = 
 - clear WordPress data before migration
 
 = Features of Automated Migration: = 
@@ -29,7 +29,7 @@ Supported WordPress versions: 3.x
 * Free Demo Available - CMS2CMS gives its users a possibility to see the website migration process in action and to estimate the results.
 * Live Support - CMS2CMS provides 24/7 live chat support to help users at any step of the migration path. 
 
-           Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Movable Type and WordPress websites. As soon as activated, you’ll be redirected to CMS2CMS website in order to complete the migration.
+  Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Movable Type and WordPress websites. As soon as activated, you’ll be redirected to CMS2CMS website in order to complete the migration.
 
 == Installation ==
 
