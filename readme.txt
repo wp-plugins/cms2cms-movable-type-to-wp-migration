@@ -15,7 +15,7 @@ If you wish to migrate your current Movable Type to WordPress - CMS2CMS Migratio
 
 Supported WordPress versions: 3.x 
 
-= The Following Entities are Currently Supported by CMS2CMS: = 
+== The Following Entities are Currently Supported by CMS2CMS: ==
 * pages
 * content images 
 * internal links
