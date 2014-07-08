@@ -15,15 +15,15 @@ If you wish to migrate your current Movable Type to WordPress - CMS2CMS Migratio
 
 Supported WordPress versions: 3.x 
 
-= The Following Entities are Currently Supported by CMS2CMS : = 
+= The Following Entities are Currently Supported by CMS2CMS: = 
 * pages
 * content images 
-* nternal links
+* internal links
 
 = Additional Migration Options:= 
 - clear WordPress data before migration
 
-= Features of Automated Migration:= 
+= Features of Automated Migration: = 
 * Ease of Use - CMS2CMS is suitable for both web developers and average users since it requires no special skills or programming experience to work with. 
 * High Speed - due to the automated process, CMS2CMS migration takes up from 15 min to a couple of hours, depending on the size of a website.
 * Free Demo Available - CMS2CMS gives its users a possibility to see the website migration process in action and to estimate the results.
