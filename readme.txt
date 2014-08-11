@@ -13,6 +13,9 @@ If you wish to migrate your current Movable Type to WordPress - CMS2CMS Migratio
 
 If you wish to migrate your current Movable Type to WordPress - CMS2CMS Migration Plugin can help to convert all data totally automatedly in a few easy-to-do steps. No coding experience or special skills are required to master and operate the tool properly. 
 
+= Video =
+[youtube https://www.youtube.com/watch?v=ywK4_IVzQsQ]
+
 Supported WordPress versions: 3.x 
 
 = The Following Entities are Currently Supported by CMS2CMS: =
