@@ -35,6 +35,8 @@ If you wish to migrate your current Movable Type to WordPress - CMS2CMS Migratio
 * Free Demo Available - CMS2CMS gives its users a possibility to see the website migration process in action and to estimate the results.
 * Live Support - CMS2CMS provides 24/7 live chat support to help users at any step of the migration path. 
 
+Find more info about migration here: http://www.cms2cms.com/supported-cms/movable-type-to-wordpress-migration/
+
   Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Movable Type and WordPress websites. As soon as activated, you’ll be redirected to CMS2CMS website in order to complete the migration.
 
 == Installation ==
