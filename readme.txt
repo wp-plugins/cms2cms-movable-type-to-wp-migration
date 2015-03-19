@@ -28,6 +28,8 @@ If you wish to migrate your current Movable Type to WordPress - CMS2CMS Migratio
 
 = Additional Migration Options: = 
 - clear WordPress data before migration
+- 301 redirects from old URLs to new URLs
+- forms
 
 = Features of Automated Migration: = 
 * Ease of Use - CMS2CMS is suitable for both web developers and average users since it requires no special skills or programming experience to work with. 
